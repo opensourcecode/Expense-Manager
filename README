@@ -1,0 +1,49 @@
+
+							EXPENSE MANAGER
+
+What is it?
+------------
+
+Expense Manager is an application that helps you track your expenses.
+A user can create an account and after logging in can add daily expenses, 
+retrieve his expenses, display the expenses filtered by categories or 
+months and the expenses would be output as tables, pie charts and bar 
+graphs. There are two versions of this application packaged in this
+bundle - a command line version and a GUI version.
+
+
+Version
+--------
+
+The current version number is 0.1 and the application is currently known
+as Expense Manager v0.1
+
+
+Operating Instructions
+-----------------------
+
+Execute the file db_init to initialize the databases using the following
+command:
+	python db_init.py
+
+After this execute the main driver by typing the following command:
+	python main.py
+
+
+LICENCE
+--------
+
+GNU GPL v2 (What else could it be?)
+
+
+Authors
+--------
+
+Ashutosh Chaudhary
+
+Nishant Jain
+
+
+Github Repository
+------------------
+
